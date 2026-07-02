@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>Hi, I'm **A.SIREESHA*, a Computer Science student passionate about software development, artificial intelligence, and problem-solving. I enjoy building real-world projects, exploring new technologies, and continuously improving my coding skills. Currently, I'm focused on Data Structures & Algorithms, Full-Stack Development, and AI/ML projects while preparing for software engineering roles.
+## About Me<br><br>Hi, I'm A.SIREESHA, a Computer Science student passionate about software development, artificial intelligence, and problem-solving. I enjoy building real-world projects, exploring new technologies, and continuously improving my coding skills. Currently, I'm focused on Data Structures & Algorithms, Full-Stack Development, and AI/ML projects while preparing for software engineering roles.
 
 
 ## 🌐 Socials:
